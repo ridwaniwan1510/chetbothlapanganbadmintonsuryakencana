@@ -1,0 +1,943 @@
+{
+  "intents": [
+    {
+      "intent": "else",
+      "examples": [
+        {
+          "text": "jam 11"
+        },
+        {
+          "text": "saya mau jam 12"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hargaL",
+      "examples": [
+        {
+          "text": "berapa harga nya?"
+        },
+        {
+          "text": "berapa harga untuk satu jam"
+        },
+        {
+          "text": "berapa harga untuk sekali main"
+        },
+        {
+          "text": "harga"
+        },
+        {
+          "text": "harganya berapa"
+        },
+        {
+          "text": "mahal ga"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hargalapangan",
+      "examples": [
+        {
+          "text": "apakah harganya mahal"
+        },
+        {
+          "text": "berapa harganya"
+        },
+        {
+          "text": "berapa harga untuk satu jam"
+        },
+        {
+          "text": "berapa harga untuk sekali main"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hargaM",
+      "examples": [
+        {
+          "text": "berapa harga member"
+        },
+        {
+          "text": "berapa untuk harga membuat member"
+        },
+        {
+          "text": "berapa untuk harga menjadi member"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "intro",
+      "examples": [
+        {
+          "text": "hai"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "selamat malam"
+        },
+        {
+          "text": "selamat pagi"
+        },
+        {
+          "text": "selamat siang"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "jam",
+      "examples": [
+        {
+          "text": "jam 10"
+        },
+        {
+          "text": "jam 6"
+        },
+        {
+          "text": "jam 7"
+        },
+        {
+          "text": "jam 8"
+        },
+        {
+          "text": "jam 9"
+        },
+        {
+          "text": "saya ambil jam 6"
+        },
+        {
+          "text": "saya ambil jam 7"
+        },
+        {
+          "text": "saya ambil jam 8"
+        },
+        {
+          "text": "saya ambil jam 9"
+        },
+        {
+          "text": "saya mau jam 6"
+        },
+        {
+          "text": "saya mau jam 7"
+        },
+        {
+          "text": "saya mau jam 8"
+        },
+        {
+          "text": "saya mau jam 9"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "KelebihanM",
+      "examples": [
+        {
+          "text": "apa aja kelebihan dari member"
+        },
+        {
+          "text": "apa saja kelebihan dari member"
+        },
+        {
+          "text": "keuntungan apa aja yang saya dapatkan"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "kelebihanmember",
+      "examples": [
+        {
+          "text": "apa aja kelebihan dari member"
+        },
+        {
+          "text": "apa saja kelebihan dari member"
+        },
+        {
+          "text": "keuntungan apa aja yang saya dapatkan"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "lapanga",
+      "examples": [
+        {
+          "text": "lapangan 2"
+        },
+        {
+          "text": "lapangan 3"
+        },
+        {
+          "text": "lapangan 4"
+        },
+        {
+          "text": "lapangan 5"
+        },
+        {
+          "text": "lapangan 6"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Lkosong",
+      "examples": [
+        {
+          "text": "2 kosong ga"
+        },
+        {
+          "text": "2 masih kosong ga"
+        },
+        {
+          "text": "3 kosong ga"
+        },
+        {
+          "text": "3 masih kosong ga"
+        },
+        {
+          "text": "4 kosong ga"
+        },
+        {
+          "text": "4 masih kosong ga"
+        },
+        {
+          "text": "5 kosong ga"
+        },
+        {
+          "text": "5 masih kosong ga"
+        },
+        {
+          "text": "6 kosong ga"
+        },
+        {
+          "text": "6 masih kosong ga"
+        },
+        {
+          "text": "apakah lapangan 2 masih kosong"
+        },
+        {
+          "text": "apakah lapangan 3 masih kosong"
+        },
+        {
+          "text": "apakah lapangan 4 masih kosong"
+        },
+        {
+          "text": "apakah lapangan 5 masih kosong"
+        },
+        {
+          "text": "apakah lapangan 6 masih kosong"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Lpenuh",
+      "examples": [
+        {
+          "text": "apakah lapangan 1 kosong ?"
+        },
+        {
+          "text": "lapangan 1 kosong ga?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Ltersedia",
+      "examples": [
+        {
+          "text": "ada berapa jumlah lapangan yang bisa digunakan"
+        },
+        {
+          "text": "ada berapa lapangan"
+        },
+        {
+          "text": "kira-kira berapa lapangan yang tersedia"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "penyewaanlapangan",
+      "examples": [
+        {
+          "text": "baik saya ambil lapangan 2"
+        },
+        {
+          "text": "baik saya ambil lapangan 3"
+        },
+        {
+          "text": "baik saya ambil lapangan 4"
+        },
+        {
+          "text": "baik saya ambil lapangan 5"
+        },
+        {
+          "text": "baik saya ambil lapangan 6"
+        },
+        {
+          "text": "lapangan 2"
+        },
+        {
+          "text": "lapangan 3"
+        },
+        {
+          "text": "lapangan 4"
+        },
+        {
+          "text": "lapangan 5"
+        },
+        {
+          "text": "lapangan 6"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "pertanyaan",
+      "examples": [
+        {
+          "text": "apakah lapangan badminton tersedia"
+        },
+        {
+          "text": "apakah masih ada lapangan badminton yang kosong"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "setujuM",
+      "examples": [
+        {
+          "text": "ambil 1 bulan"
+        },
+        {
+          "text": "ambil 2 bulan"
+        },
+        {
+          "text": "ambil 3 bulan"
+        },
+        {
+          "text": "ambil 4 bulan"
+        },
+        {
+          "text": "ambil 5 bulan"
+        },
+        {
+          "text": "ambil 6 bulan"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tanggal",
+      "examples": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "10"
+        },
+        {
+          "text": "11"
+        },
+        {
+          "text": "12"
+        },
+        {
+          "text": "13"
+        },
+        {
+          "text": "14"
+        },
+        {
+          "text": "15"
+        },
+        {
+          "text": "16"
+        },
+        {
+          "text": "17"
+        },
+        {
+          "text": "18"
+        },
+        {
+          "text": "19"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "20"
+        },
+        {
+          "text": "21"
+        },
+        {
+          "text": "22"
+        },
+        {
+          "text": "23"
+        },
+        {
+          "text": "24"
+        },
+        {
+          "text": "25"
+        },
+        {
+          "text": "26"
+        },
+        {
+          "text": "27"
+        },
+        {
+          "text": "28"
+        },
+        {
+          "text": "29"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "30"
+        },
+        {
+          "text": "31"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "5"
+        },
+        {
+          "text": "6"
+        },
+        {
+          "text": "7"
+        },
+        {
+          "text": "8"
+        },
+        {
+          "text": "9"
+        },
+        {
+          "text": "ada penyewaan lapangan"
+        },
+        {
+          "text": "penyewaan lapangan"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 10"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 10 hari jumat"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 10 hari kamis"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 10 hari minggu"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 10 hari rabu"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 10 hari sabtu"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 10 hari selasa"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 10 hari senin"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 6"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 6 hari jumat"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 6 hari kamis"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 6 hari rabu"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 6 hari selasa"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 6 hari senin"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 7"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 7 hari jumat"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 7 hari kamis"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 7 hari rabu"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 7 hari selasa"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 7 hari senin"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 8 hari jumat"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 8 hari kamis"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 8 hari rabu"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 8 hari selasa"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 8 hari senin"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 9 hari jumat"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 9 hari kamis"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 9 hari minggu"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 9 hari rabu"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 9 hari sabtu"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 9 hari selasa"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam 9 hari senin"
+        },
+        {
+          "text": "saya mau nyewa lapangan jam hari senin"
+        },
+        {
+          "text": "tanggal 1"
+        },
+        {
+          "text": "tanggal 10"
+        },
+        {
+          "text": "tanggal 11"
+        },
+        {
+          "text": "tanggal 12"
+        },
+        {
+          "text": "tanggal 13"
+        },
+        {
+          "text": "tanggal 14"
+        },
+        {
+          "text": "tanggal 15"
+        },
+        {
+          "text": "tanggal 16"
+        },
+        {
+          "text": "tanggal 17"
+        },
+        {
+          "text": "tanggal 18"
+        },
+        {
+          "text": "tanggal 19"
+        },
+        {
+          "text": "tanggal 2"
+        },
+        {
+          "text": "tanggal 20"
+        },
+        {
+          "text": "tanggal 21"
+        },
+        {
+          "text": "tanggal 22"
+        },
+        {
+          "text": "tanggal 23"
+        },
+        {
+          "text": "tanggal 24"
+        },
+        {
+          "text": "tanggal 25"
+        },
+        {
+          "text": "tanggal 26"
+        },
+        {
+          "text": "tanggal 27"
+        },
+        {
+          "text": "tanggal 28"
+        },
+        {
+          "text": "tanggal 29"
+        },
+        {
+          "text": "tanggal 3"
+        },
+        {
+          "text": "tanggal 30"
+        },
+        {
+          "text": "tanggal 31"
+        },
+        {
+          "text": "tanggal 4"
+        },
+        {
+          "text": "tanggal 5"
+        },
+        {
+          "text": "tanggal 6"
+        },
+        {
+          "text": "tanggal 7"
+        },
+        {
+          "text": "tanggal 8"
+        },
+        {
+          "text": "tanggal 9"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Maaf  boleh di ulangi"
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_2_1688572807536",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "baik lapangan tersebut kosong"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Lpenuh",
+      "dialog_node": "node_10_1688571203353",
+      "previous_sibling": "node_2_1688570947249"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "baik terimakasih atas pemesanannya silahkan datang untuk mengambil kartu member"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#setujuM",
+      "dialog_node": "node_1_1688572691043",
+      "previous_sibling": "node_6_1688572617507"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "mohon maaf lapangannya penuh silahkan pilih lapangan yang lain ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Lpenuh",
+      "dialog_node": "node_2_1688570947249",
+      "previous_sibling": "node_5_1688570038496"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "mohon maaf jam segitu kami sudah tutup silahkan pilih jam yang lain"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#else",
+      "dialog_node": "node_2_1688572807536",
+      "previous_sibling": "node_3_1688572788833"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "baik terimakasih, pesanan anda sedang di proses silahkan datang di jam yang telah di tentukan"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#jam",
+      "dialog_node": "node_2_1688574336726",
+      "previous_sibling": "node_7_1688570577678"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Baik, mau jam berapa"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#penyewaanlapangan",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1688569979357",
+      "previous_sibling": "node_3_1688570988704"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Disini ada  6 lapangan\n lapangan 1 di pojok kanan baris pertama\n lapangan 2 di tengah baris pertama\n lapangan 3 di pojok kiri baris pertama\n lapangan 4 di pojok kanan baris dua\n lapangan 5 di tengah baris dua\n lapangan 6 di pojok kiri baris dua"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Ltersedia",
+      "dialog_node": "node_3_1688570988704",
+      "previous_sibling": "node_10_1688571203353"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "yang anda dapatkan jika menjadi member : \n1. geratis main 6 kali dalam sebulan\n2. mendapatkan air mineral 1 botol 250ml\n3. dapat shuttelcock 2 biji setiap pertemuan"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#KelebihanM",
+      "dialog_node": "node_3_1688572788833",
+      "previous_sibling": "node_1_1688572691043"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, selamat datang  di lapangan badminton surya kencana ada yang bisa mimin bantu,\nDisini tersedia:\n1. Penyewaan lapangan badminton (6 sore sampai 10 malam)\n2. Pembuatan member "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#intro",
+      "dialog_node": "node_5_1688569548759",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "baik masi ada, mau lapangan berapa"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#pertanyaan",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1688570038496",
+      "previous_sibling": "node_5_1688569548759"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "harganya 15 ribu perkepala"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#hargaL",
+      "dialog_node": "node_5_1688572201361",
+      "previous_sibling": "node_2_1688574336726"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "harganya 50 ribu perbulan"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#hargaM",
+      "dialog_node": "node_6_1688572617507",
+      "previous_sibling": "node_5_1688572201361"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "baik silah kan pilih lapangannya"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#tanggal",
+      "dialog_node": "node_7_1688570577678",
+      "previous_sibling": "node_3_1688569979357"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, selamat datang  di lapangan badminton surya kencana ada yang bisa mimin bantu,\nDisini tersedia:\n1. Penyewaan lapangan badminton (6 sore sampai 10 malam)\n2. Pembuatan member "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "learning_opt_out": false,
+  "language": "xx",
+  "description": "created for assistant a020d649-0f25-4cf8-9c9f-b0e6766a48fb",
+  "name": "information competion-dialog"
+}

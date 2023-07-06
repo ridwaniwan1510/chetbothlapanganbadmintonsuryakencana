@@ -1,0 +1,179 @@
+jam 11,else
+saya mau jam 12,else
+harganya berapa,hargaL
+mahal ga,hargaL
+berapa harga untuk satu jam,hargaL
+berapa harga untuk sekali main,hargaL
+berapa harga nya?,hargaL
+harga,hargaL
+apakah harganya mahal,hargalapangan
+berapa harga untuk satu jam,hargalapangan
+berapa harga untuk sekali main,hargalapangan
+berapa harganya,hargalapangan
+berapa untuk harga membuat member,hargaM
+berapa untuk harga menjadi member,hargaM
+berapa harga member,hargaM
+hai,intro
+selamat malam,intro
+selamat siang,intro
+selamat pagi,intro
+hello,intro
+saya ambil jam 6,jam
+jam 6,jam
+jam 7,jam
+jam 8,jam
+jam 9,jam
+jam 10,jam
+saya ambil jam 7,jam
+saya ambil jam 8,jam
+saya ambil jam 9,jam
+saya mau jam 6,jam
+saya mau jam 7,jam
+saya mau jam 8,jam
+saya mau jam 9,jam
+keuntungan apa aja yang saya dapatkan,KelebihanM
+apa aja kelebihan dari member,KelebihanM
+apa saja kelebihan dari member,KelebihanM
+apa aja kelebihan dari member,kelebihanmember
+keuntungan apa aja yang saya dapatkan,kelebihanmember
+apa saja kelebihan dari member,kelebihanmember
+lapangan 3,lapanga
+lapangan 6,lapanga
+lapangan 5,lapanga
+lapangan 4,lapanga
+lapangan 2,lapanga
+apakah lapangan 3 masih kosong,Lkosong
+3 kosong ga,Lkosong
+5 kosong ga,Lkosong
+4 kosong ga,Lkosong
+2 kosong ga,Lkosong
+apakah lapangan 6 masih kosong,Lkosong
+apakah lapangan 5 masih kosong,Lkosong
+apakah lapangan 2 masih kosong,Lkosong
+6 masih kosong ga,Lkosong
+apakah lapangan 4 masih kosong,Lkosong
+5 masih kosong ga,Lkosong
+4 masih kosong ga,Lkosong
+3 masih kosong ga,Lkosong
+2 masih kosong ga,Lkosong
+6 kosong ga,Lkosong
+apakah lapangan 1 kosong ?,Lpenuh
+lapangan 1 kosong ga?,Lpenuh
+ada berapa lapangan,Ltersedia
+kira-kira berapa lapangan yang tersedia,Ltersedia
+ada berapa jumlah lapangan yang bisa digunakan,Ltersedia
+baik saya ambil lapangan 6,penyewaanlapangan
+lapangan 2,penyewaanlapangan
+lapangan 3,penyewaanlapangan
+lapangan 4,penyewaanlapangan
+lapangan 5,penyewaanlapangan
+lapangan 6,penyewaanlapangan
+baik saya ambil lapangan 2,penyewaanlapangan
+baik saya ambil lapangan 3,penyewaanlapangan
+baik saya ambil lapangan 4,penyewaanlapangan
+baik saya ambil lapangan 5,penyewaanlapangan
+apakah masih ada lapangan badminton yang kosong,pertanyaan
+apakah lapangan badminton tersedia,pertanyaan
+ambil 4 bulan,setujuM
+ambil 1 bulan,setujuM
+ambil 2 bulan,setujuM
+ambil 3 bulan,setujuM
+ambil 5 bulan,setujuM
+ambil 6 bulan,setujuM
+11,tanggal
+12,tanggal
+13,tanggal
+14,tanggal
+15,tanggal
+16,tanggal
+17,tanggal
+18,tanggal
+19,tanggal
+20,tanggal
+21,tanggal
+22,tanggal
+23,tanggal
+24,tanggal
+25,tanggal
+26,tanggal
+27,tanggal
+28,tanggal
+29,tanggal
+30,tanggal
+31,tanggal
+ada penyewaan lapangan,tanggal
+penyewaan lapangan,tanggal
+saya mau nyewa lapangan jam 10,tanggal
+saya mau nyewa lapangan jam 6,tanggal
+saya mau nyewa lapangan jam 6 hari jumat,tanggal
+saya mau nyewa lapangan jam 6 hari kamis,tanggal
+saya mau nyewa lapangan jam 6 hari rabu,tanggal
+saya mau nyewa lapangan jam 6 hari selasa,tanggal
+saya mau nyewa lapangan jam 6 hari senin,tanggal
+saya mau nyewa lapangan jam 7,tanggal
+saya mau nyewa lapangan jam 7 hari kamis,tanggal
+saya mau nyewa lapangan jam 7 hari rabu,tanggal
+saya mau nyewa lapangan jam 7 hari selasa,tanggal
+saya mau nyewa lapangan jam 7 hari senin,tanggal
+saya mau nyewa lapangan jam 8 hari jumat,tanggal
+saya mau nyewa lapangan jam 8 hari kamis,tanggal
+saya mau nyewa lapangan jam 8 hari rabu,tanggal
+saya mau nyewa lapangan jam 8 hari selasa,tanggal
+saya mau nyewa lapangan jam 8 hari senin,tanggal
+saya mau nyewa lapangan jam hari senin,tanggal
+saya mau nyewa lapangan jam 9 hari senin,tanggal
+saya mau nyewa lapangan jam 9 hari selasa,tanggal
+saya mau nyewa lapangan jam 9 hari rabu,tanggal
+saya mau nyewa lapangan jam 9 hari kamis,tanggal
+saya mau nyewa lapangan jam 9 hari jumat,tanggal
+saya mau nyewa lapangan jam 9 hari sabtu,tanggal
+saya mau nyewa lapangan jam 9 hari minggu,tanggal
+saya mau nyewa lapangan jam 10 hari senin,tanggal
+saya mau nyewa lapangan jam 10 hari selasa,tanggal
+saya mau nyewa lapangan jam 10 hari rabu,tanggal
+saya mau nyewa lapangan jam 10 hari kamis,tanggal
+saya mau nyewa lapangan jam 10 hari jumat,tanggal
+saya mau nyewa lapangan jam 10 hari sabtu,tanggal
+saya mau nyewa lapangan jam 10 hari minggu,tanggal
+saya mau nyewa lapangan jam 7 hari jumat,tanggal
+tanggal 1,tanggal
+tanggal 2,tanggal
+tanggal 3,tanggal
+tanggal 4,tanggal
+tanggal 5,tanggal
+tanggal 6,tanggal
+tanggal 7,tanggal
+tanggal 8,tanggal
+tanggal 9,tanggal
+tanggal 10,tanggal
+tanggal 11,tanggal
+tanggal 12,tanggal
+tanggal 13,tanggal
+tanggal 14,tanggal
+tanggal 15,tanggal
+tanggal 16,tanggal
+tanggal 17,tanggal
+tanggal 18,tanggal
+tanggal 19,tanggal
+tanggal 20,tanggal
+tanggal 21,tanggal
+tanggal 22,tanggal
+tanggal 23,tanggal
+tanggal 24,tanggal
+tanggal 25,tanggal
+tanggal 26,tanggal
+tanggal 27,tanggal
+tanggal 28,tanggal
+tanggal 29,tanggal
+tanggal 30,tanggal
+tanggal 31,tanggal
+1,tanggal
+2,tanggal
+3,tanggal
+4,tanggal
+5,tanggal
+6,tanggal
+7,tanggal
+8,tanggal
+9,tanggal
+10,tanggal
